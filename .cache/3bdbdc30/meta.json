@@ -1,0 +1,406 @@
+{
+  "currentId": 21,
+  "modules": {
+    "1": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/src/index.tsx",
+      "dependencies": [
+        9,
+        6,
+        8,
+        2,
+        4,
+        5
+      ],
+      "id": 1,
+      "mtime": 1588511452319,
+      "packageId": "default",
+      "publicPath": "src/index.tsx"
+    },
+    "2": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/fuse-box-hot-reload/clientHotReload.ts",
+      "dependencies": [
+        3
+      ],
+      "id": 2,
+      "mtime": 1588513029483,
+      "packageId": "fuse-box-hot-reload@1.0.0",
+      "publicPath": "node_modules/fuse-box/modules/fuse-box-hot-reload/clientHotReload.ts"
+    },
+    "3": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/fuse-box-websocket/index.js",
+      "dependencies": [
+        10
+      ],
+      "id": 3,
+      "mtime": 1588513029483,
+      "packageId": "fuse-box-websocket@1.0.0",
+      "publicPath": "node_modules/fuse-box/modules/fuse-box-websocket/index.js"
+    },
+    "4": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/react/index.js",
+      "dependencies": [
+        13
+      ],
+      "id": 4,
+      "mtime": 1587403013398,
+      "packageId": "react@16.13.1",
+      "publicPath": "node_modules/react/index.js"
+    },
+    "5": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/react-dom/index.js",
+      "dependencies": [
+        14
+      ],
+      "id": 5,
+      "mtime": 1587403013673,
+      "packageId": "react-dom@16.13.1",
+      "publicPath": "node_modules/react-dom/index.js"
+    },
+    "6": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/src/index.css",
+      "dependencies": [
+        7
+      ],
+      "id": 6,
+      "mtime": 1588511452304,
+      "packageId": "default",
+      "publicPath": "src/index.css"
+    },
+    "7": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/fuse-box-css/index.js",
+      "dependencies": [],
+      "id": 7,
+      "mtime": 1588513029483,
+      "packageId": "fuse-box-css@1.0.0",
+      "publicPath": "node_modules/fuse-box/modules/fuse-box-css/index.js"
+    },
+    "8": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/src/App.tsx",
+      "dependencies": [
+        4,
+        11,
+        12
+      ],
+      "id": 8,
+      "mtime": 1588511452278,
+      "packageId": "default",
+      "publicPath": "src/App.tsx"
+    },
+    "9": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/src/serviceWorker.ts",
+      "dependencies": [],
+      "id": 9,
+      "mtime": 1588511452351,
+      "packageId": "default",
+      "publicPath": "src/serviceWorker.ts"
+    },
+    "10": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/events/index.js",
+      "dependencies": [],
+      "id": 10,
+      "mtime": 1588513029483,
+      "packageId": "events@1.0.0",
+      "publicPath": "node_modules/fuse-box/modules/events/index.js"
+    },
+    "11": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/src/logo.svg",
+      "dependencies": [],
+      "id": 11,
+      "mtime": 1588511452336,
+      "packageId": "default",
+      "publicPath": "src/logo.svg"
+    },
+    "12": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/src/App.css",
+      "dependencies": [
+        7
+      ],
+      "id": 12,
+      "mtime": 1588511452250,
+      "packageId": "default",
+      "publicPath": "src/App.css"
+    },
+    "13": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/react/cjs/react.development.js",
+      "dependencies": [
+        15,
+        16
+      ],
+      "id": 13,
+      "mtime": 1587403013398,
+      "packageId": "react@16.13.1",
+      "publicPath": "node_modules/react/cjs/react.development.js"
+    },
+    "14": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/react-dom/cjs/react-dom.development.js",
+      "dependencies": [
+        4,
+        15,
+        16,
+        18,
+        17
+      ],
+      "id": 14,
+      "mtime": 1587403013673,
+      "packageId": "react-dom@16.13.1",
+      "publicPath": "node_modules/react-dom/cjs/react-dom.development.js"
+    },
+    "15": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/object-assign/index.js",
+      "dependencies": [],
+      "id": 15,
+      "mtime": 1586425837222,
+      "packageId": "object-assign@4.1.1",
+      "publicPath": "node_modules/object-assign/index.js"
+    },
+    "16": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/prop-types/checkPropTypes.js",
+      "dependencies": [
+        19
+      ],
+      "id": 16,
+      "mtime": 1586425895075,
+      "packageId": "prop-types@15.7.2",
+      "publicPath": "node_modules/prop-types/checkPropTypes.js"
+    },
+    "17": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/scheduler/index.js",
+      "dependencies": [
+        21
+      ],
+      "id": 17,
+      "mtime": 1587403015062,
+      "packageId": "scheduler@0.19.1",
+      "publicPath": "node_modules/scheduler/index.js"
+    },
+    "18": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/scheduler/tracing.js",
+      "dependencies": [
+        20
+      ],
+      "id": 18,
+      "mtime": 1587403015062,
+      "packageId": "scheduler@0.19.1",
+      "publicPath": "node_modules/scheduler/tracing.js"
+    },
+    "19": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "dependencies": [],
+      "id": 19,
+      "mtime": 1586425895075,
+      "packageId": "prop-types@15.7.2",
+      "publicPath": "node_modules/prop-types/lib/ReactPropTypesSecret.js"
+    },
+    "20": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/scheduler/cjs/scheduler-tracing.development.js",
+      "dependencies": [],
+      "id": 20,
+      "mtime": 1587403015062,
+      "packageId": "scheduler@0.19.1",
+      "publicPath": "node_modules/scheduler/cjs/scheduler-tracing.development.js"
+    },
+    "21": {
+      "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/scheduler/cjs/scheduler.development.js",
+      "dependencies": [],
+      "id": 21,
+      "mtime": 1587403015062,
+      "packageId": "scheduler@0.19.1",
+      "publicPath": "node_modules/scheduler/cjs/scheduler.development.js"
+    }
+  },
+  "packages": {
+    "default": {
+      "type": 0,
+      "publicName": "default",
+      "isUserPackage": true,
+      "isExternalPackage": false
+    },
+    "fuse-box-hot-reload@1.0.0": {
+      "type": 1,
+      "meta": {
+        "fusebox": {
+          "dev": true
+        },
+        "name": "fuse-box-hot-reload",
+        "packageJSONLocation": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/fuse-box-hot-reload/package.json",
+        "packageRoot": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/fuse-box-hot-reload",
+        "version": "1.0.0",
+        "entryAbsPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/fuse-box-hot-reload/clientHotReload.ts",
+        "entryFuseBoxPath": "clientHotReload.js"
+      },
+      "publicName": "fuse-box-hot-reload@1.0.0",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        2
+      ],
+      "mtime": 1588513029483
+    },
+    "fuse-box-websocket@1.0.0": {
+      "type": 1,
+      "meta": {
+        "fusebox": {
+          "dev": true
+        },
+        "name": "fuse-box-websocket",
+        "packageJSONLocation": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/fuse-box-websocket/package.json",
+        "packageRoot": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/fuse-box-websocket",
+        "version": "1.0.0",
+        "entryAbsPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/fuse-box-websocket/index.js",
+        "entryFuseBoxPath": "index.js"
+      },
+      "publicName": "fuse-box-websocket@1.0.0",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        3
+      ],
+      "mtime": 1588513029483
+    },
+    "react@16.13.1": {
+      "type": 1,
+      "meta": {
+        "name": "react",
+        "packageJSONLocation": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/react/package.json",
+        "packageRoot": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/react",
+        "version": "16.13.1",
+        "entryAbsPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/react/index.js",
+        "entryFuseBoxPath": "index.js"
+      },
+      "publicName": "react@16.13.1",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        4,
+        13
+      ],
+      "mtime": 1587403013398
+    },
+    "react-dom@16.13.1": {
+      "type": 1,
+      "meta": {
+        "browser": {
+          "./server.js": "./server.browser.js",
+          "./unstable-fizz.js": "./unstable-fizz.browser.js"
+        },
+        "name": "react-dom",
+        "packageJSONLocation": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/react-dom/package.json",
+        "packageRoot": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/react-dom",
+        "version": "16.13.1",
+        "entryAbsPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/react-dom/index.js",
+        "entryFuseBoxPath": "index.js"
+      },
+      "publicName": "react-dom@16.13.1",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        5,
+        14
+      ],
+      "mtime": 1587403013673
+    },
+    "fuse-box-css@1.0.0": {
+      "type": 1,
+      "meta": {
+        "fusebox": {
+          "system": true
+        },
+        "name": "fuse-box-css",
+        "packageJSONLocation": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/fuse-box-css/package.json",
+        "packageRoot": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/fuse-box-css",
+        "version": "1.0.0",
+        "entryAbsPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/fuse-box-css/index.js",
+        "entryFuseBoxPath": "index.js"
+      },
+      "publicName": "fuse-box-css@1.0.0",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        7
+      ],
+      "mtime": 1588513029483
+    },
+    "events@1.0.0": {
+      "type": 1,
+      "meta": {
+        "fusebox": {
+          "polyfill": true
+        },
+        "name": "events",
+        "packageJSONLocation": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/events/package.json",
+        "packageRoot": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/events",
+        "version": "1.0.0",
+        "entryAbsPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/fuse-box/modules/events/index.js",
+        "entryFuseBoxPath": "index.js"
+      },
+      "publicName": "events@1.0.0",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        10
+      ],
+      "mtime": 1588513029483
+    },
+    "object-assign@4.1.1": {
+      "type": 1,
+      "meta": {
+        "name": "object-assign",
+        "packageJSONLocation": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/object-assign/package.json",
+        "packageRoot": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/object-assign",
+        "version": "4.1.1",
+        "entryAbsPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/object-assign/index.js",
+        "entryFuseBoxPath": "index.js"
+      },
+      "publicName": "object-assign@4.1.1",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        15
+      ],
+      "mtime": 1586425837222
+    },
+    "prop-types@15.7.2": {
+      "type": 1,
+      "meta": {
+        "name": "prop-types",
+        "packageJSONLocation": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/prop-types/package.json",
+        "packageRoot": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/prop-types",
+        "version": "15.7.2"
+      },
+      "publicName": "prop-types@15.7.2",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        16,
+        19
+      ],
+      "mtime": 1586425895075
+    },
+    "scheduler@0.19.1": {
+      "type": 1,
+      "meta": {
+        "name": "scheduler",
+        "packageJSONLocation": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/scheduler/package.json",
+        "packageRoot": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/scheduler",
+        "version": "0.19.1",
+        "entryAbsPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/node_modules/scheduler/index.js",
+        "entryFuseBoxPath": "index.js"
+      },
+      "publicName": "scheduler@0.19.1",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        17,
+        18,
+        20,
+        21
+      ],
+      "mtime": 1587403015062
+    }
+  },
+  "ctx": {
+    "linkedReferences": {},
+    "systemDependencies": {},
+    "tsConfigAtPaths": []
+  }
+}

@@ -1,0 +1,1 @@
+{"contents":"'use strict';\nfunction checkDCE() {\n  if (typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ === 'undefined' || typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.checkDCE !== 'function') {\n    return;\n  }\n  throw new Error('^_^');\n  try {\n    __REACT_DEVTOOLS_GLOBAL_HOOK__.checkDCE(checkDCE);\n  } catch (err) {\n    console.error(err);\n  }\n}\nmodule.exports = __fusereq(14);\n"}
