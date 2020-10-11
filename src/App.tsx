@@ -19,6 +19,9 @@ function App() {
           Learn React with Arif
         </a>
       </header>
+      <div>
+         <p> Please learn with carefully and use the documentation as your learn partner!</p> 
+      </div>
     </div>
   );
 }
