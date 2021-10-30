@@ -1,0 +1,406 @@
+{
+  "currentId": 21,
+  "modules": {
+    "1": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/src/index.tsx",
+      "dependencies": [
+        5,
+        8,
+        7,
+        2,
+        3,
+        4
+      ],
+      "id": 1,
+      "mtime": 1635587042490,
+      "packageId": "default",
+      "publicPath": "src/index.tsx"
+    },
+    "2": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/fuse-box-hot-reload/clientHotReload.ts",
+      "dependencies": [
+        9
+      ],
+      "id": 2,
+      "mtime": 1635587093697,
+      "packageId": "fuse-box-hot-reload@1.0.0",
+      "publicPath": "node_modules/fuse-box/modules/fuse-box-hot-reload/clientHotReload.ts"
+    },
+    "3": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/react/index.js",
+      "dependencies": [
+        10
+      ],
+      "id": 3,
+      "mtime": 1630500849329,
+      "packageId": "react@16.14.0",
+      "publicPath": "node_modules/react/index.js"
+    },
+    "4": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/react-dom/index.js",
+      "dependencies": [
+        11
+      ],
+      "id": 4,
+      "mtime": 1630500857880,
+      "packageId": "react-dom@16.14.0",
+      "publicPath": "node_modules/react-dom/index.js"
+    },
+    "5": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/src/index.css",
+      "dependencies": [
+        6
+      ],
+      "id": 5,
+      "mtime": 1635587042490,
+      "packageId": "default",
+      "publicPath": "src/index.css"
+    },
+    "6": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/fuse-box-css/index.js",
+      "dependencies": [],
+      "id": 6,
+      "mtime": 1635587093697,
+      "packageId": "fuse-box-css@1.0.0",
+      "publicPath": "node_modules/fuse-box/modules/fuse-box-css/index.js"
+    },
+    "7": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/src/App.tsx",
+      "dependencies": [
+        3,
+        12,
+        13
+      ],
+      "id": 7,
+      "mtime": 1635587364435,
+      "packageId": "default",
+      "publicPath": "src/App.tsx"
+    },
+    "8": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/src/serviceWorker.ts",
+      "dependencies": [],
+      "id": 8,
+      "mtime": 1635587042493,
+      "packageId": "default",
+      "publicPath": "src/serviceWorker.ts"
+    },
+    "9": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/fuse-box-websocket/index.js",
+      "dependencies": [
+        14
+      ],
+      "id": 9,
+      "mtime": 1635587093697,
+      "packageId": "fuse-box-websocket@1.0.0",
+      "publicPath": "node_modules/fuse-box/modules/fuse-box-websocket/index.js"
+    },
+    "10": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/react/cjs/react.development.js",
+      "dependencies": [
+        15,
+        16
+      ],
+      "id": 10,
+      "mtime": 1630500849329,
+      "packageId": "react@16.14.0",
+      "publicPath": "node_modules/react/cjs/react.development.js"
+    },
+    "11": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/react-dom/cjs/react-dom.development.js",
+      "dependencies": [
+        3,
+        15,
+        16,
+        18,
+        17
+      ],
+      "id": 11,
+      "mtime": 1630500857880,
+      "packageId": "react-dom@16.14.0",
+      "publicPath": "node_modules/react-dom/cjs/react-dom.development.js"
+    },
+    "12": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/src/logo.svg",
+      "dependencies": [],
+      "id": 12,
+      "mtime": 1635587042491,
+      "packageId": "default",
+      "publicPath": "src/logo.svg"
+    },
+    "13": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/src/App.css",
+      "dependencies": [
+        6
+      ],
+      "id": 13,
+      "mtime": 1635587042489,
+      "packageId": "default",
+      "publicPath": "src/App.css"
+    },
+    "14": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/events/index.js",
+      "dependencies": [],
+      "id": 14,
+      "mtime": 1635587093697,
+      "packageId": "events@1.0.0",
+      "publicPath": "node_modules/fuse-box/modules/events/index.js"
+    },
+    "15": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/object-assign/index.js",
+      "dependencies": [],
+      "id": 15,
+      "mtime": 1630500755998,
+      "packageId": "object-assign@4.1.1",
+      "publicPath": "node_modules/object-assign/index.js"
+    },
+    "16": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/prop-types/checkPropTypes.js",
+      "dependencies": [
+        19
+      ],
+      "id": 16,
+      "mtime": 1630500746710,
+      "packageId": "prop-types@15.7.2",
+      "publicPath": "node_modules/prop-types/checkPropTypes.js"
+    },
+    "17": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/scheduler/index.js",
+      "dependencies": [
+        21
+      ],
+      "id": 17,
+      "mtime": 1630500858882,
+      "packageId": "scheduler@0.19.1",
+      "publicPath": "node_modules/scheduler/index.js"
+    },
+    "18": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/scheduler/tracing.js",
+      "dependencies": [
+        20
+      ],
+      "id": 18,
+      "mtime": 1630500858882,
+      "packageId": "scheduler@0.19.1",
+      "publicPath": "node_modules/scheduler/tracing.js"
+    },
+    "19": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "dependencies": [],
+      "id": 19,
+      "mtime": 1630500746710,
+      "packageId": "prop-types@15.7.2",
+      "publicPath": "node_modules/prop-types/lib/ReactPropTypesSecret.js"
+    },
+    "20": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/scheduler/cjs/scheduler-tracing.development.js",
+      "dependencies": [],
+      "id": 20,
+      "mtime": 1630500858882,
+      "packageId": "scheduler@0.19.1",
+      "publicPath": "node_modules/scheduler/cjs/scheduler-tracing.development.js"
+    },
+    "21": {
+      "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/scheduler/cjs/scheduler.development.js",
+      "dependencies": [],
+      "id": 21,
+      "mtime": 1630500858882,
+      "packageId": "scheduler@0.19.1",
+      "publicPath": "node_modules/scheduler/cjs/scheduler.development.js"
+    }
+  },
+  "packages": {
+    "default": {
+      "type": 0,
+      "publicName": "default",
+      "isUserPackage": true,
+      "isExternalPackage": false
+    },
+    "fuse-box-hot-reload@1.0.0": {
+      "type": 1,
+      "meta": {
+        "fusebox": {
+          "dev": true
+        },
+        "name": "fuse-box-hot-reload",
+        "packageJSONLocation": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/fuse-box-hot-reload/package.json",
+        "packageRoot": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/fuse-box-hot-reload",
+        "version": "1.0.0",
+        "entryAbsPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/fuse-box-hot-reload/clientHotReload.ts",
+        "entryFuseBoxPath": "clientHotReload.js"
+      },
+      "publicName": "fuse-box-hot-reload@1.0.0",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        2
+      ],
+      "mtime": 1635587093697
+    },
+    "react@16.14.0": {
+      "type": 1,
+      "meta": {
+        "name": "react",
+        "packageJSONLocation": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/react/package.json",
+        "packageRoot": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/react",
+        "version": "16.14.0",
+        "entryAbsPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/react/index.js",
+        "entryFuseBoxPath": "index.js"
+      },
+      "publicName": "react@16.14.0",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        3,
+        10
+      ],
+      "mtime": 1630500849329
+    },
+    "react-dom@16.14.0": {
+      "type": 1,
+      "meta": {
+        "browser": {
+          "./server.js": "./server.browser.js",
+          "./unstable-fizz.js": "./unstable-fizz.browser.js"
+        },
+        "name": "react-dom",
+        "packageJSONLocation": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/react-dom/package.json",
+        "packageRoot": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/react-dom",
+        "version": "16.14.0",
+        "entryAbsPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/react-dom/index.js",
+        "entryFuseBoxPath": "index.js"
+      },
+      "publicName": "react-dom@16.14.0",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        4,
+        11
+      ],
+      "mtime": 1630500857880
+    },
+    "fuse-box-css@1.0.0": {
+      "type": 1,
+      "meta": {
+        "fusebox": {
+          "system": true
+        },
+        "name": "fuse-box-css",
+        "packageJSONLocation": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/fuse-box-css/package.json",
+        "packageRoot": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/fuse-box-css",
+        "version": "1.0.0",
+        "entryAbsPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/fuse-box-css/index.js",
+        "entryFuseBoxPath": "index.js"
+      },
+      "publicName": "fuse-box-css@1.0.0",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        6
+      ],
+      "mtime": 1635587093697
+    },
+    "fuse-box-websocket@1.0.0": {
+      "type": 1,
+      "meta": {
+        "fusebox": {
+          "dev": true
+        },
+        "name": "fuse-box-websocket",
+        "packageJSONLocation": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/fuse-box-websocket/package.json",
+        "packageRoot": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/fuse-box-websocket",
+        "version": "1.0.0",
+        "entryAbsPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/fuse-box-websocket/index.js",
+        "entryFuseBoxPath": "index.js"
+      },
+      "publicName": "fuse-box-websocket@1.0.0",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        9
+      ],
+      "mtime": 1635587093697
+    },
+    "events@1.0.0": {
+      "type": 1,
+      "meta": {
+        "fusebox": {
+          "polyfill": true
+        },
+        "name": "events",
+        "packageJSONLocation": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/events/package.json",
+        "packageRoot": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/events",
+        "version": "1.0.0",
+        "entryAbsPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/fuse-box/modules/events/index.js",
+        "entryFuseBoxPath": "index.js"
+      },
+      "publicName": "events@1.0.0",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        14
+      ],
+      "mtime": 1635587093697
+    },
+    "object-assign@4.1.1": {
+      "type": 1,
+      "meta": {
+        "name": "object-assign",
+        "packageJSONLocation": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/object-assign/package.json",
+        "packageRoot": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/object-assign",
+        "version": "4.1.1",
+        "entryAbsPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/object-assign/index.js",
+        "entryFuseBoxPath": "index.js"
+      },
+      "publicName": "object-assign@4.1.1",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        15
+      ],
+      "mtime": 1630500755998
+    },
+    "prop-types@15.7.2": {
+      "type": 1,
+      "meta": {
+        "name": "prop-types",
+        "packageJSONLocation": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/prop-types/package.json",
+        "packageRoot": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/prop-types",
+        "version": "15.7.2"
+      },
+      "publicName": "prop-types@15.7.2",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        16,
+        19
+      ],
+      "mtime": 1630500746710
+    },
+    "scheduler@0.19.1": {
+      "type": 1,
+      "meta": {
+        "name": "scheduler",
+        "packageJSONLocation": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/scheduler/package.json",
+        "packageRoot": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/scheduler",
+        "version": "0.19.1",
+        "entryAbsPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/node_modules/scheduler/index.js",
+        "entryFuseBoxPath": "index.js"
+      },
+      "publicName": "scheduler@0.19.1",
+      "isUserPackage": false,
+      "isExternalPackage": true,
+      "deps": [
+        17,
+        18,
+        20,
+        21
+      ],
+      "mtime": 1630500858882
+    }
+  },
+  "ctx": {
+    "linkedReferences": {},
+    "systemDependencies": {},
+    "tsConfigAtPaths": []
+  }
+}

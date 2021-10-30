@@ -27,8 +27,13 @@ f.modules = modules;
 })();
 __fuse.bundle({
 
-// src/serviceWorker.ts @9
-9: function(__fusereq, exports, module){
+// src/index.css @5
+5: function(__fusereq, exports, module){
+__fusereq(6)("src/index.css","body {\n  margin: 0;\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',\n    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',\n    sans-serif;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}\n\ncode {\n  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',\n    monospace;\n}\n")
+},
+
+// src/serviceWorker.ts @8
+8: function(__fusereq, exports, module){
 const isLocalhost = Boolean(window.location.hostname === 'localhost' || window.location.hostname === '[::1]' || window.location.hostname.match(/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/));
 function register(config) {
   if ("development" === 'production' && ('serviceWorker' in navigator)) {
@@ -110,29 +115,14 @@ exports.unregister = unregister;
 
 },
 
-// src/index.css @6
-6: function(__fusereq, exports, module){
-__fusereq(7)("src/index.css","body {\n  margin: 0;\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',\n    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',\n    sans-serif;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}\n\ncode {\n  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',\n    monospace;\n}\n")
-},
-
-// src/logo.svg @11
-11: function(__fusereq, exports, module){
-module.exports = "/resources/31f263ce.svg";
-},
-
-// src/App.css @12
-12: function(__fusereq, exports, module){
-__fusereq(7)("src/App.css",".App {\n  text-align: center;\n}\n\n.App-logo {\n  height: 40vmin;\n  pointer-events: none;\n}\n\n@media (prefers-reduced-motion: no-preference) {\n  .App-logo {\n    animation: App-logo-spin infinite 20s linear;\n  }\n}\n\n.App-header {\n  background-color: #282c34;\n  min-height: 100vh;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  font-size: calc(10px + 2vmin);\n  color: white;\n}\n\n.App-link {\n  color: #61dafb;\n}\n\n@keyframes App-logo-spin {\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n}\n")
-},
-
-// src/App.tsx @8
-8: function(__fusereq, exports, module){
+// src/App.tsx @7
+7: function(__fusereq, exports, module){
 exports.__esModule = true;
-var react_1 = __fusereq(4);
+var react_1 = __fusereq(3);
 var react_1d = __fuse.dt(react_1);
-var logo_svg_1 = __fusereq(11);
+var logo_svg_1 = __fusereq(12);
 var logo_svg_1d = __fuse.dt(logo_svg_1);
-__fusereq(12);
+__fusereq(13);
 function App() {
   return react_1d.default.createElement("div", {
     className: "App"
@@ -144,10 +134,10 @@ function App() {
     alt: "logo"
   }), react_1d.default.createElement("p", null, "\n          Edit ", react_1d.default.createElement("code", null, "src/App.tsx"), " and save to reload.\n        "), react_1d.default.createElement("a", {
     className: "App-link",
-    href: "https://reactjs.org",
+    href: "https://github.com/arifwidianto08",
     target: "_blank",
     rel: "noopener noreferrer"
-  }, "\n          Learn React\n        ")));
+  }, "\n          Learn React with Arif\n        ")), react_1d.default.createElement("div", null, react_1d.default.createElement("p", null, " ", "\n          Please learn with carefully and use the documentation as your learn\n          partner!\n        ")));
 }
 exports.default = App;
 
@@ -156,17 +146,27 @@ exports.default = App;
 // src/index.tsx @1
 1: function(__fusereq, exports, module){
 exports.__esModule = true;
-var react_1 = __fusereq(4);
+var react_1 = __fusereq(3);
 var react_1d = __fuse.dt(react_1);
-var react_dom_1 = __fusereq(5);
+var react_dom_1 = __fusereq(4);
 var react_dom_1d = __fuse.dt(react_dom_1);
-__fusereq(6);
-var App_1 = __fusereq(8);
+__fusereq(5);
+var App_1 = __fusereq(7);
 var App_1d = __fuse.dt(App_1);
-var serviceWorker_1 = __fusereq(9);
+var serviceWorker_1 = __fusereq(8);
 react_dom_1d.default.render(react_1d.default.createElement(react_1d.default.StrictMode, null, react_1d.default.createElement(App_1d.default, null)), document.getElementById('root'));
-serviceWorker_1.unregister();
+serviceWorker_1.register();
 
+},
+
+// src/logo.svg @12
+12: function(__fusereq, exports, module){
+module.exports = "/resources/044fa49cc.svg";
+},
+
+// src/App.css @13
+13: function(__fusereq, exports, module){
+__fusereq(6)("src/App.css",".App {\n  text-align: center;\n}\n\n.App-logo {\n  height: 40vmin;\n  pointer-events: none;\n}\n\n@media (prefers-reduced-motion: no-preference) {\n  .App-logo {\n    animation: App-logo-spin infinite 20s linear;\n  }\n}\n\n.App-header {\n  background-color: #282c34;\n  min-height: 100vh;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  font-size: calc(10px + 2vmin);\n  color: white;\n}\n\n.App-link {\n  color: #61dafb;\n}\n\n@keyframes App-logo-spin {\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n}\n")
 }
 })
 //# sourceMappingURL=app.js.map

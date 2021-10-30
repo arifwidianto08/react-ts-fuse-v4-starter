@@ -1,6 +1,6 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/arifwidianto08"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -20,7 +20,11 @@ function App() {
         </a>
       </header>
       <div>
-         <p> Please learn with carefully and use the documentation as your learn partner!</p> 
+        <p>
+          {" "}
+          Please learn with carefully and use the documentation as your learn
+          partner!
+        </p>
       </div>
     </div>
   );
