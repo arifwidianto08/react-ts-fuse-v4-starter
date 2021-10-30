@@ -1,13 +1,13 @@
 [
   {
-    "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/dist/app.js",
+    "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/dist/app.js",
     "browserPath": "/app.js",
     "relativePath": "app.js",
     "type": "js",
     "webIndexed": true
   },
   {
-    "absPath": "/mnt/c/Users/arifj/Documents/Learn/react-16.13.1/dist/vendor.js",
+    "absPath": "/Users/ilham/Documents/react/react-ts-fuse-v4-starter/dist/vendor.js",
     "browserPath": "/vendor.js",
     "relativePath": "vendor.js",
     "type": "js",
